@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Setting up:
+
+     client =  Mousecop::Client.new
+     client.players # => returns an array of Mousecop::Player
+     # Mousecop::Player has attributes of id, players, image
 
 ## Contributing
 
