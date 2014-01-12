@@ -1,0 +1,2 @@
+class Mousecop::Client
+end
