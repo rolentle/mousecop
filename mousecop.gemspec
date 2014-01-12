@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rolentle@gmail.com"]
   spec.description   = "A Ruby Gem Wrapper for A Flamboyant Mock User Generator"
   spec.summary       = "This is a Ruby Gem Wrapper for A Flamboyant Mock User Generator found at http://collegebowl.avatarpro.biz/"
-  spec.homepage      = "github.com/rolentle/mousecop"
+  spec.homepage      = "https://github.com/rolentle/mousecop"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
