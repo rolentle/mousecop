@@ -1,6 +1,6 @@
 # Mousecop
 
-TODO: Write a gem description
+Ruby gem wrapper for http://collegebowl.avatarpro.biz/
 
 ## Installation
 
@@ -20,9 +20,9 @@ Or install it yourself as:
 
 Setting up:
 
-     client =  Mousecop::Client.new
-     client.players # => returns an array of Mousecop::Player
-     # Mousecop::Player has attributes of id, players, image
+   $ Mousecop::Player.all #=> return all
+   $ Mousecop::Player.sample #=> returns random player
+
 
 ## Contributing
 
