@@ -20,8 +20,10 @@ Or install it yourself as:
 
 Setting up:
 
+```ruby
    $ Mousecop::Player.all #=> return all
    $ Mousecop::Player.sample #=> returns random player
+```
 
 
 ## Contributing
